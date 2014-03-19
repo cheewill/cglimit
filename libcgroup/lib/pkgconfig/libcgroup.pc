@@ -1,0 +1,10 @@
+prefix=/home/judasheng/workspace/cglimit/libcgroup
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libcgroup
+Description: Control Group Configuration Library
+Version: 0.41
+Libs: -L${libdir} -lcgroup
+Cflags: -I${includedir}
