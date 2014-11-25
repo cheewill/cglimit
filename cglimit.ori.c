@@ -1,7 +1,6 @@
 /*
- * Copyright Baidu Inc. 2010
  *
- * Authors:	Yang Yi<yangyi@baidu.com>
+ * Authors:	
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of version 2.1 of the GNU Lesser General Public License
